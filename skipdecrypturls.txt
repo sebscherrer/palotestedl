@@ -1,4 +1,4 @@
 ## List of URLs to skip when using SSL Decrypt
 
-*.youtube.com
-*
+*.youtube.com/
+
